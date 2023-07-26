@@ -1,0 +1,17 @@
+Nama Pembeli: Faizal
+======== Pesanan =======
+Kopi		Rp 15000.0
+Teh		Rp 12000.0
+Cappuccino		Rp 20000.0
+Espresso		Rp 18000.0
+Espresso		Rp 18000.0
+Teh		Rp 12000.0
+Kopi		Rp 15000.0
+Teh		Rp 12000.0
+Kopi		Rp 15000.0
+Espresso		Rp 18000.0
+<<<<<<<< ============ >>>>>>>>
+Total Pembayaran	Rp 155000.0
+Uang Diberikan		Rp 200000.0
+Kembalian		Rp 45000.0
+<<<<<<<< Terima Kasih >>>>>>>>
